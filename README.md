@@ -12,7 +12,7 @@ My name is Hélder I have a background in Biology and a love for reptiles and an
 
 ## **Github stats**
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EcoGecko&show_icons=true&theme=transparent&hide_border=true&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?style=for-the-badge&username=EcoGecko&layout=compact&theme=transparent&hide_border=true&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?style=for-the-badge&username=EcoGecko&layout=compact&langs_count=6&theme=transparent&hide_border=true&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://www.codewars.com/users/EcoGecko/badges/small" alt="codewars badge small" target="_blank"/>
 
